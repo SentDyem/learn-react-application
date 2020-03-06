@@ -1,3 +1,3 @@
 # learn-react-application
 Learn ReactJS
-Проект, разрабатывааемый в целях изучения ReactJS
+проект, разрабатывааемый в целях изучения React
