@@ -651,3 +651,9 @@ input[type=submit].twitter:after {
   text-align: center;
   font-size: 3rem;
 }
+.page-not-found {
+
+  text-align: center;
+  font-size: 64px;
+
+}

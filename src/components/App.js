@@ -5,6 +5,18 @@ import Order from "../components/Order";
 
 
 class App extends React.Component{
+
+    state =
+        {
+            fishes: {},
+            order: {}
+        };
+
+
+    addFish = fish => {
+        console.log("Adding a fish");
+    }
+
     render() {
         return (
             <div className="catch-of-the-day">
